@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Marcos Luciano Sosa</h1>
-<h3 align="center">Apasionado por las Tecnologías de la Información</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcoslsosa&label=Profile%20views&color=0e75b6&style=flat" alt="marcoslsosa" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcoslsosa" alt="marcoslsosa" /></a> </p>
+<h3 align="center">Analista en Sistemas / PM / Liderazgo / IT Suport / Sys Admin / Frontend Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/marcoss04202234" target="blank"><img src="https://img.shields.io/twitter/follow/marcoss04202234?logo=twitter&style=for-the-badge" alt="marcoss04202234" /></a> </p>
 
 - 🔭 I’m currently working on [Docente / Capacitador](https://www.istea.edu.ar/)
 
-- 🌱 I’m currently learning **Nextjs, React**
+- 🌱 I’m currently learning **Nextjs, React.**
 
-- 👯 I’m looking to collaborate on **Event Productions**
+- 👯 I’m looking to collaborate on **Product Digitals for Creative Events**
 
 - 📫 How to reach me **marcoslucianososa@gmail.com**
 
@@ -28,6 +24,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcoslsosa&show_icons=true&locale=en" alt="marcoslsosa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcoslsosa&" alt="marcoslsosa" /></p>
-
-# MarcosLSosa
