@@ -107,36 +107,6 @@ Building secure infrastructure, automating processes, and creating innovative di
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO_GITHUB&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO_GITHUB&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO_GITHUB&theme=tokyo-night"/>
-
-</p>
-
----
-
 # 🏅 Certifications & Skills
 
 ✔ Microsoft Azure
@@ -168,12 +138,6 @@ Building secure infrastructure, automating processes, and creating innovative di
 ✔ DevOps
 
 ✔ Project Management
-
----
-
-# 💬 Favorite Quote
-
-> **"Technology should automate complexity, not create it."**
 
 ---
 
