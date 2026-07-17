@@ -60,7 +60,7 @@ Building secure infrastructure, automating processes, and creating innovative di
 <img src="https://skillicons.dev/icons?i=twitter" height="45"/>
 </a>
 
-<a href="[https://github.com/TU_USUARIO_GITHUB](https://github.com/MarcosLSosa)" target="blank">
+<a href="https://github.com/MarcosLSosa" target="blank">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
