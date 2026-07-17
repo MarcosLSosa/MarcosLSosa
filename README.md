@@ -131,6 +131,6 @@ Building secure infrastructure, automating processes, and creating innovative di
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TU_USUARIO_GITHUB&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcosLSosa&theme=tokyonight"/>
 
 </p>
