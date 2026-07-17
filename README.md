@@ -128,9 +128,3 @@ Building secure infrastructure, automating processes, and creating innovative di
 ✔ Project Management
 
 ---
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcosLSosa&theme=tokyonight"/>
-
-</p>
