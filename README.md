@@ -9,7 +9,7 @@ Building secure infrastructure, automating processes, and creating innovative di
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=MarcosLSosa&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
